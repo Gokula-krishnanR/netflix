@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"name": "js series",
+		"path": "C:/Users/gokul/js series"
+	},
+	{
+		"name": "E:",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "E:"
+  },
+  "extensions": {
+    "recommendations": ["aaron-bond.better-comments"]
+  }
+}
